@@ -2,7 +2,6 @@ import React from 'react';
 import { CardProduit } from '../components/CardProduit';
 
 export function HomePage() {
-  // Produits simulés en attendant Supabase
   const produits = [
     {
       id: '1',
