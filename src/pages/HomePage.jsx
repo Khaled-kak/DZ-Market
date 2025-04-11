@@ -6,17 +6,17 @@ export function HomePage() {
     {
       id: '1',
       titre: 'Huile d’olive Kabyle 1L',
-      image: 'https://via.placeholder.com/300x200?text=Huile+d%27olive',
+      image: 'https://images.unsplash.com/photo-1600185365929-3f0495c31e65?auto=format&fit=crop&w=600&q=80',
     },
     {
       id: '2',
-      titre: 'Dattes Deglet Nour Premium',
-      image: 'https://via.placeholder.com/300x200?text=Dattes+Deglet+Nour',
+      titre: 'Dattes Deglet Nour',
+      image: 'https://images.unsplash.com/photo-1623088643162-c5d4145589e1?auto=format&fit=crop&w=600&q=80',
     },
     {
       id: '3',
-      titre: 'Couscous artisanal 1kg',
-      image: 'https://via.placeholder.com/300x200?text=Couscous+artisanal',
+      titre: 'Couscous artisanal',
+      image: 'https://images.unsplash.com/photo-1605518327286-753c225bfb46?auto=format&fit=crop&w=600&q=80',
     },
   ];
 
